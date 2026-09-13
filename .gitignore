@@ -3,3 +3,5 @@
 .env*
 build-*
 openscad-extra
+# Ignore Kiro directory (settings, local agent state, etc.)
+.kiro/
